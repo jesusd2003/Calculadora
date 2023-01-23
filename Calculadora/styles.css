@@ -1,0 +1,30 @@
+h1{
+    justify-content: center;
+    text-align: center;
+}
+
+.calculator {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 250px;
+    margin: 0 auto;
+  }
+  
+  input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  
+  input[type=button] {
+    width: 25%;
+    padding: 12px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #000000;
+    color: white;
+  }
+  
